@@ -1,8 +1,8 @@
 # Havelsan Açık Kaynak Teknoloji Kampı
 
-# Apache sunucusu kurma
+# • Apache sunucusu kurma
 
-# Lab 1
+# • Lab 1
 
 1- bash ve sh kabuklarının çevre değişkenlerini kıyaslama
 
@@ -12,7 +12,7 @@
 
 4- Kullanıcı ana dizininde bulunan dosyalardan hangisi Bash geçmişini depolamak için kullanılır?
 
-# Lab 2
+# • Lab 2
 
 1- İsim adlı bir değişlene bir isim tanımlanarak bunun ekrana yazdırılması
 
